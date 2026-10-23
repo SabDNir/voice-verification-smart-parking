@@ -1,0 +1,13 @@
+# Private participant voice recordings
+raw_records/
+
+# Generated biometric models and databases
+database/
+
+# Authentication logs
+verification_logs/
+
+# MATLAB temporary and autosave files
+*.asv
+*.autosave
+*.m~
