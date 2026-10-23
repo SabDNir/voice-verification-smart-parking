@@ -82,7 +82,7 @@ Voice recordings and voice models are biometric data. The original project repor
 
 ## Project Documentation
 
-[Full Technical Report](docs/EEE312_Group04_Final_Project_Report.pdf)
+[Full Technical Report](EEE312_Group04_Final_Project_Report.pdf)
 
 [Demonstration Video](https://youtu.be/20vIgqYNTaI)
 
