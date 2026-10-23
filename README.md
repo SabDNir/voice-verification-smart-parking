@@ -76,23 +76,17 @@ docs/           methodology, results/limitations, privacy notes
 4. Run `RUN_ME.m` for the GUI, or `RUN_ME_COMMAND_WINDOW.m` for the command-line session.
 5. See `codes/vsConfig.m` to select an input microphone and inspect the decision parameters.
 
-**Important:** These steps describe the intended workflow from the accompanying report. I have not rerun the MATLAB implementation or verified its behavior in a clean environment. Enrollment behavior and minimum viable cohort size may require adjustment for a small demonstration dataset.
-
-## Contributions and attribution
-
-Created as a **four-member course group project** at BUET (EEE 312, Group 04). All original group members should be credited when publishing the work; specific responsibilities are **not** claimed here because the contribution matrix in the supplied report is unfilled. See `docs/CONTRIBUTIONS_TEMPLATE.md` for a template to complete before publication. This README does not claim that any established signal-processing algorithm was invented by the group.
-
 ## Privacy and disclosure
 
 Voice recordings and voice models are biometric data. The original project report restricts collected recordings and trained models to the project group and instructors. This public-facing source package **deliberately excludes** original `.wav`, `.mat`, and session-log `.csv` files. Before publication, ensure all team members approve sharing the code and that any screenshots or demonstration videos do not reveal personal information or participants who have not consented to public distribution.
 
-## Technical documentation
+## Project Documentation
 
-- [Methodology](docs/METHODOLOGY.md)
-- [Results and limitations](docs/RESULTS_AND_LIMITATIONS.md)
-- [Privacy and publication checklist](docs/PRIVACY.md)
-- [Team contributions — completion required](docs/CONTRIBUTIONS_TEMPLATE.md)
+[Full Technical Report](docs/EEE312_Group04_Final_Project_Report.pdf)
 
-**Demonstration video:** The project report provides a video link. It has deliberately not been included as a public link here pending confirmation that everyone depicted or heard consented to public sharing.
+[Demonstration Video](https://youtu.be/20vIgqYNTaI)
 
-**License:** No license has been added. Agree on an open-source license with the other contributors before making the repository publicly reusable.
+The report includes the system architecture, DSP algorithms,
+mathematical methodology, experimental evaluation,
+performance analysis, limitations, and proposed future work.
+
